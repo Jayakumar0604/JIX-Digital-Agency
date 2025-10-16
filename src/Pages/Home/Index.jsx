@@ -5,7 +5,6 @@ import HomeFirst from "./HomeFirst";
 import HomeThird from "./HomeThird";
 import Help from "../../Components/Help/Index";
 import Customer from "../../Components/Customer/Index";
-import Sample from "./Sample";
 import Quote from "../../Components/Quote/Index";
 
 const Home = () => {
