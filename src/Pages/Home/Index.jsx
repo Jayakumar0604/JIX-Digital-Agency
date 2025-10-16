@@ -1,5 +1,5 @@
 import React from "react";
-import Back from "../../assets/Home-Back.jpg";
+import Back from "../../assets/Home-Back.webp";
 import { Link } from "react-router-dom";
 import HomeFirst from "./HomeFirst";
 import HomeThird from "./HomeThird";

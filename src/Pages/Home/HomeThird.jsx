@@ -1,7 +1,7 @@
 import React from "react";
-import Partner1 from "../../assets/Owner.png";
-import Partner2 from "../../assets/Director.png";
-import Partner3 from "../../assets/Hr.png";
+import Partner1 from "../../assets/Owner.webp";
+import Partner2 from "../../assets/Director.webp";
+import Partner3 from "../../assets/Hr.webp";
 import { Link } from "react-router-dom";
 
 const HomeThird = () => {

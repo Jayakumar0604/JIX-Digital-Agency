@@ -3,7 +3,7 @@ import Client1 from "../../assets/logo-1.svg";
 import Client2 from "../../assets/logo-2.svg";
 import Client3 from "../../assets/logo-3.svg";
 import Client4 from "../../assets/logo-4.svg";
-import CLient5 from "../../assets/b3.jpg";
+import CLient5 from "../../assets/b3.webp";
 
 const Customer = () => {
   const Images = [

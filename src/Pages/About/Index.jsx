@@ -1,6 +1,6 @@
 import React from "react";
 import Background from "../../Components/Background/Index";
-import Back from "../../assets/About-Back.jpg";
+import Back from "../../assets/About-Back.webp";
 import { FaCaretRight } from "react-icons/fa";
 import AboutFirst from "./AboutFirst";
 import AboutSecond from "./AboutSecond";

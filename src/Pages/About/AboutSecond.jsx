@@ -1,5 +1,5 @@
 import React from "react";
-import Back from "../../assets/AboutBack-2.jpg";
+import Back from "../../assets/AboutBack-2.webp";
 import FeatureItem from "../../Components/FeatureItems/Index";
 
 const AboutSecond = () => {

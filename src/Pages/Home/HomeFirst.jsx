@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Client1 from "../../assets/Home-portfolio1.jpg";
-import Client2 from "../../assets/Home-portfolio2.jpg";
-import Client3 from "../../assets/Home-portfolio3.jpg";
-import Client4 from "../../assets/Home-portfolio4.jpg";
+import Client1 from "../../assets/Home-portfolio1.webp";
+import Client2 from "../../assets/Home-portfolio2.webp";
+import Client3 from "../../assets/Home-portfolio3.webp";
+import Client4 from "../../assets/Home-portfolio4.webp";
 
 const HomeFirst = () => {
   const Images = [

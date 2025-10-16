@@ -1,5 +1,5 @@
 import React from "react";
-import Back from "../../assets/Contact-Back.jpg";
+import Back from "../../assets/Contact-Back.webp";
 import Background from "../../Components/Background/Index";
 import ContactFirst from "./ContactFirst";
 import Quote from "../../Components/Quote/Index";

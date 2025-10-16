@@ -1,5 +1,5 @@
 import React from "react";
-import Back from "../../assets/Services-Back.jpg";
+import Back from "../../assets/Services-Back.webp";
 import Background from "../../Components/Background/Index";
 import Help from "../../Components/Help/Index";
 import Customer from "../../Components/Customer/Index";
